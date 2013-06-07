@@ -1,0 +1,10 @@
+{
+  "name": "polygon-builder",
+  "version": "1.0.0",
+  "main": "/v1/polygon(1.0).min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
